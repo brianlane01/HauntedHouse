@@ -1,0 +1,12 @@
+/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/obj/Debug/net7.0/HauntedHouse.Data.csproj.AssemblyReference.cache
+/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/obj/Debug/net7.0/HauntedHouse.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/obj/Debug/net7.0/HauntedHouse.Data.AssemblyInfoInputs.cache
+/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/obj/Debug/net7.0/HauntedHouse.Data.AssemblyInfo.cs
+/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/obj/Debug/net7.0/HauntedHouse.Data.csproj.CoreCompileInputs.cache
+/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/bin/Debug/net7.0/HauntedHouse.Data.deps.json
+/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/bin/Debug/net7.0/HauntedHouse.Data.dll
+/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/bin/Debug/net7.0/HauntedHouse.Data.pdb
+/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/obj/Debug/net7.0/HauntedHouse.Data.dll
+/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/obj/Debug/net7.0/refint/HauntedHouse.Data.dll
+/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/obj/Debug/net7.0/HauntedHouse.Data.pdb
+/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/obj/Debug/net7.0/ref/HauntedHouse.Data.dll

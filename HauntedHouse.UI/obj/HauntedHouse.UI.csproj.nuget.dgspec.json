@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.UI/HauntedHouse.UI.csproj": {}
+  },
+  "projects": {
+    "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/HauntedHouse.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/HauntedHouse.Data.csproj",
+        "projectName": "HauntedHouse.Data",
+        "projectPath": "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/HauntedHouse.Data.csproj",
+        "packagesPath": "/Users/brianlane/.nuget/packages/",
+        "outputPath": "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brianlane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Repository/HauntedHouse.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Repository/HauntedHouse.Repository.csproj",
+        "projectName": "HauntedHouse.Repository",
+        "projectPath": "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Repository/HauntedHouse.Repository.csproj",
+        "packagesPath": "/Users/brianlane/.nuget/packages/",
+        "outputPath": "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brianlane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/HauntedHouse.Data.csproj": {
+                "projectPath": "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/HauntedHouse.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.UI/HauntedHouse.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.UI/HauntedHouse.UI.csproj",
+        "projectName": "HauntedHouse.UI",
+        "projectPath": "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.UI/HauntedHouse.UI.csproj",
+        "packagesPath": "/Users/brianlane/.nuget/packages/",
+        "outputPath": "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.UI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brianlane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/HauntedHouse.Data.csproj": {
+                "projectPath": "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Data/HauntedHouse.Data.csproj"
+              },
+              "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Repository/HauntedHouse.Repository.csproj": {
+                "projectPath": "/Users/brianlane/ElevenFiftyProjects/codingFoundations/dotNetprojects/csharpBasics/12_HauntedHouseApp/HauntedHouse.Repository/HauntedHouse.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
